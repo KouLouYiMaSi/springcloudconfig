@@ -1,5 +1,5 @@
 data:
   env: config-dev
   user:
-    username: dev-huo
-    password: hellohuo
+    username: dev-huo-new
+    password: hellohuo-new
